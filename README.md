@@ -1,5 +1,3 @@
-# hooli-popup
+# friends app
 
-<p>It is homework project of the Kottans frontend course. Practice use HTML and CSS<p>
-
-[Demo](https://vladimirrutskiy.github.io/hooli-popup/)
+[Demo](https://vladimirrutskiy.github.io/friends-app/)
